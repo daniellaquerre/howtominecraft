@@ -1,0 +1,38 @@
+body {
+   background-image: url("dirt.jpg") ;
+    background-repeat: no-repeat;
+}
+
+.bg { 
+    /* The image used */
+    background-image: url("dirt.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
+h1 {
+    text-align: center;
+    color: white;
+text-shadow: 3px 3px #000000;
+}
+h2 {
+    text-align: center;
+    color: floralwhite;
+text-shadow: 3px 3px #000000;
+}
+h3 {
+    text-align: center;
+color: white;
+    text-shadow: 1px 1px #ffffff;
+}
